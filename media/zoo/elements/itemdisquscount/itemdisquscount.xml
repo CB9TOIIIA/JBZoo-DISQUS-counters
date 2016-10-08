@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<element type="itemdisquscount" group="Social">
+	<name>Item Disqus Count</name>
+	<author>CB9TOIIIA</author>
+	<creationDate>November 2015</creationDate>
+	<copyright>Copyright (C) CB9T.ru</copyright>
+	<authorEmail>cb9toiiia@gmail.com</authorEmail>
+	<authorUrl>http://www.cb9t.ru</authorUrl>
+	<version>2.5.0</version>
+	<description>Item Disqus Count</description>
+	<params group="render">
+		<param name="link_text" type="text" default="" label="Link Text" description="LINK_TEXT_DESCRIPTION" />
+	</params>
+</element>
